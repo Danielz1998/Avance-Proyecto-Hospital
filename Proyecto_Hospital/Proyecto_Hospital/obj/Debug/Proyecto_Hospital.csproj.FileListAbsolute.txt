@@ -1,0 +1,24 @@
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe.config
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.pdb
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.Properties.Resources.resources
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csproj.GenerateResource.Cache
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.exe
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.pdb
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.Pacto.resources
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.Login.resources
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.frmMenu.resources
+C:\Users\Norman Hernandez\Documents\Visual Studio 2017\Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.frmMostrar_Pacto.resources
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe.config
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.exe
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.pdb
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.pdb
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csprojResolveAssemblyReference.cache
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.frmMostrar_Pacto.resources
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.Login.resources
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.frmMenu.resources
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.Pacto.resources
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.Properties.Resources.resources
+C:\Users\AULA\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csproj.GenerateResource.Cache
